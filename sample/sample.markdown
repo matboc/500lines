@@ -1,5 +1,5 @@
-title: A Sample Chapter
-author: Michael DiBernardo
+title: Przykładowy rozdział
+author: Piotr Banaszkiewicz
 
 ## Introduction
 
