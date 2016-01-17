@@ -1,4 +1,4 @@
-title: Optical Character Recognition (OCR)
+﻿title: Optical Character Recognition (OCR)
 author: Marina Samuel
 
 ## Introduction
@@ -777,3 +777,14 @@ Although we’ve built a seemingly functional OCR system, this chapter simply
 scratches the surface of how a real OCR system might work. More sophisticated
 OCR systems could have pre-processed inputs, use hybrid ML algorithms, have
 more extensive design phases, or other further optimizations.
+
+▄▄▄▄▄▄▄░▄▄▄▄▄▄▄░▄▄▄▄▄▄░▄▄▄▄▄
+░░▀███░░░░▀██░░░░██▀░░░░██░░
+░░░▀██░░░░░▀██░░▄█░░░░░▄█░░░
+░░░░███░░░░░▀██▄█░░░░░░█░░░░
+░░░░░███░░░░░▀██░░░░░░█▀░░░░
+░░░░░░███░░░░▄███░░░░█▀░░░░░
+░░░░░░░██▄░░▄▀░███░░█▀░░░░░░
+░░░░░░░▀██▄█▀░░░███▄▀░░░░░░░
+░░░░░░░░▀██▀░░░░░███░░░░░░░░
+░░░░░░░░░▀▀░░░░░░░▀░░░░░░░░░
