@@ -10,6 +10,7 @@ from aiohttp import ClientError, web
 import crawling
 
 # New comment by PG
+# Oj oj musze tu dodac jeszcze jeden komentarz
 
 @contextmanager
 def capture_logging():
