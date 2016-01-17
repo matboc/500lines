@@ -4,7 +4,9 @@ author: Malini Das
 _Malini Das is a software engineer who is passionate about developing quickly (but safely!), and solving cross-functional problems. She has worked at Mozilla as a tools engineer and is currently honing her skills at Twitch. Follow Malini on [Twitter](https://twitter.com/malinidas) or on her [blog](http://malinidas.com/)._
 
 
-## What is a Continuous Integration System?
+# What is a Continuous Integration System?
+## dodaję inny nagłówek
+### a jest taki?
 
 When developing software, we want to be able to verify that our new
 features or bug fixes are safe and work as expected. We do this by
