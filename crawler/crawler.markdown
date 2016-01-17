@@ -658,7 +658,7 @@ Traceback (most recent call last):
 Exception: my error
 ```
 
-This is much more useful! The stack trace shows `caller_fn` was delegating to `gen_fn` when it threw the error. Even more comforting, we can wrap the call to a sub-coroutine in an exception handler, the same is with normal subroutines:
+This is much more useful. The stack trace shows `caller_fn` was delegating to `gen_fn` when it threw the error. Even more comforting, we can wrap the call to a sub-coroutine in an exception handler, the same is with normal subroutines:
 
 ```python
 >>> def gen_fn():
