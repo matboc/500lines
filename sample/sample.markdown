@@ -1,4 +1,4 @@
-title: A Sample Chapter
+title: Rozdział ze składnią Markdown
 author: Michael DiBernardo
 
 ## Introduction

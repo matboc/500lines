@@ -5,6 +5,10 @@
 #     https://pip.pypa.io/en/latest/installing.html
 #
 # Then install these packages with "pip install -r requirements-py33.txt".
+# to jest dodatkowa linijka komentarza
+# to tez
+# bla bla bla
+# czwarta, dodatkowa linijka
 
 asyncio
 aiohttp>=0.16

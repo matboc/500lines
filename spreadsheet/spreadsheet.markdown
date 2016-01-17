@@ -1,5 +1,7 @@
 title: Web Spreadsheet
-author: Audrey Tang
+author: Audrey Tang i warsztaty GITa
+
+**drobna zmiana na początku pliku** z poprawką
 
 _A self-educated programmer and translator, Audrey works with Apple as an independent contractor on cloud service localization and natural language technologies. Audrey has previously designed and led the first working Perl 6 implementation, and served in computer language design committees for Haskell, Perl 5, and Perl 6. Currently Audrey is a full-time g0v contributor and leads Taiwan’s first e-Rulemaking project._
 

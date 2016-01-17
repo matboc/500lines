@@ -1,6 +1,7 @@
 import numpy as np
 from multinomial import MultinomialDistribution
 
+#comment
 
 class MagicItemDistribution(object):
 
