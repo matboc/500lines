@@ -1,4 +1,4 @@
-Author: Anna Krysińska
+Author: Gall Anonim
 Project: Flow Shop Scheduler
 Requirements: Python
 
