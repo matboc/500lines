@@ -1,6 +1,10 @@
+;; czy dzieki /;/; moge dodac komentarz? czy nie?
+;; i co to za rozszerzenie pliku clj?
+
 (ns fdb.manage
   "Management of db connections (from the user's perspective), internally creates / drops dbs."
   (:use fdb.constructs))
+  
 
 (def ^:private __ALL-DBS__ (atom {}))
 
