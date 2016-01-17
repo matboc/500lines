@@ -1,4 +1,6 @@
-﻿Test version by ksawczak
+﻿Test version 0.2 by ksawczak
+Work in progress
+Milestone: Read and summerize the content
 title: DBDB: Dog Bed Database
 author: Taavi Burns
 
