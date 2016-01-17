@@ -1,4 +1,4 @@
-# `tiny_gfx`: A tiny rasterizer
+# `tiny_gfx`: A tiny rasterizer (not so tiny and effective)
 
 A *rasterizer* is a piece of software that converts arbitrary shapes
 into *raster images*, which is just a funny name for rectangular grids
