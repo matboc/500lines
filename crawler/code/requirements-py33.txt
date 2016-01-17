@@ -8,6 +8,7 @@
 # to jest dodatkowa linijka komentarza
 # to tez
 # bla bla bla
+# czwarta, dodatkowa linijka
 
 asyncio
 aiohttp>=0.16
