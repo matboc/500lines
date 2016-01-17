@@ -1,5 +1,5 @@
 title: Rozdział ze składnią Markdown
-author: Gall Anonim
+author: Michael DiBernardo
 
 ## Introduction
 
