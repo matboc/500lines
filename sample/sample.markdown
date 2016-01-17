@@ -1,5 +1,5 @@
 title: Przykładowy rozdział
-author: Piotr Banaszkiewicz
+author: Gall Anonim
 
 ## Introduction
 
