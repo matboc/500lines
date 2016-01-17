@@ -1,6 +1,6 @@
 SuperSimpleCI
 =============
-**Author:** Malini Das, WiolaW
+**Author:** Malini Das, Wioletta W
 
 **Project:** SuperSimpleCI
 
