@@ -1,6 +1,8 @@
 *500 Lines or Less*
 ===================
 
+*Testowe zmiany pliku README.*
+
 > "What I cannot create, I do not understand."
 >
 > -- Richard Feynman
