@@ -9,6 +9,7 @@ from aiohttp import ClientError, web
 
 import crawling
 
+# New comment by PG
 
 @contextmanager
 def capture_logging():
