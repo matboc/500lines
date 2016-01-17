@@ -1,4 +1,4 @@
-title: Przykładowy rozdział
+title: Rozdział ze składnią Markdown
 author: Gall Anonim
 
 ## Introduction
