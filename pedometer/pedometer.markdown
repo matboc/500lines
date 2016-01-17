@@ -4,7 +4,7 @@ author: Dessy Daskalov
 _Dessy is an engineer by trade, an entrepreneur by passion, and a developer at heart. She's currently the CTO and co-founder of [Nudge Rewards](http://nudgerewards.com/.) When she’s not busy building product with her team, she can be found teaching others to code, attending or hosting a Toronto tech event, and online at [dessydaskalov.com](http://www.dessydaskalov.com/) and [\@dess_e](https://twitter.com/dess_e)._
 
 
-## A Perfect World
+## Doskonaly swiat
 
 Many software engineers reflecting on their training will remember having the pleasure of living in a very perfect world. We were taught to solve discrete problems, with defined parameters, in an ideal domain.
 
@@ -16,7 +16,7 @@ We'll work together to build a basic pedometer. We'll start by discussing the th
 
 Let's roll up our sleeves, and prepare to untangle a real-world problem.
 
-## Pedometer Theory
+## Teoria
 
 The rise of the mobile device brought with it a trend to collect more and more data on our daily lives. One type of data many people collect is the number of steps they've taken over a period of time. This data can be used for health tracking, training for sporting events, or, for those of us obsessed with collecting and analyzing data, just for kicks. Steps can be counted using a pedometer, which often uses data from a hardware accelerometer as input.
 
