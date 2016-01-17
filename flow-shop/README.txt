@@ -1,4 +1,4 @@
-Author: Christian Muise
+Author: Anna Krysińska
 Project: Flow Shop Scheduler
 Requirements: Python
 
