@@ -1,5 +1,5 @@
 ﻿title: Clustering by Consensus
-author: Mateusz&Radek
+author: Mitchell&Mateusz&Radek
 
 _Dustin is an open source software developer and release engineer at Mozilla.
 He has worked on projects as varied as a host configuration system in Puppet, a
