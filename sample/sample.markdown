@@ -1,5 +1,5 @@
-title: A Sample Chapter
-author: Michael DiBernardo
+title: Przykładowy rozdział
+author: Gall Anonim
 
 ## Introduction
 
