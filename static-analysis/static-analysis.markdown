@@ -106,8 +106,8 @@ First, let's look at an example of what we want to catch. We'll be looking at tw
 ```julia
 function unstable()
   sum = 0
-  for i=1:100
-    sum += i/2
+  for i=1:1000
+    sum += i/4
   end
   return sum
 end
