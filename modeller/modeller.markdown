@@ -1,4 +1,4 @@
-title: A 3D Modeller
+title: A 3D Modeller A 3D Modeller
 author: Erick Dransch
 
 _Erick is a software developer and 2D and 3D computer graphics enthusiast. He has worked on video games, 3D special effects software, and computer aided design tools. If it involves simulating reality, chances are he'd like to learn more about it. You can find him online at [erickdransch.com](http://erickdransch.com)._
